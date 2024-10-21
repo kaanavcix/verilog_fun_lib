@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/fpga/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/fpga/project_2/project_2.srcs/sim_1/new/clock_tb.v,1728583199,verilog,,,,clock_tb,,,,,,,,
+D:/fpga/project_2/project_2.srcs/sim_1/new/dflipflop_tb.v,1728588157,verilog,,,,dflipflop_tb,,,,,,,,
+D:/fpga/project_2/project_2.srcs/sim_1/new/tb_and.v,1728562875,verilog,,,,tb_and,,,,,,,,
+D:/fpga/project_2/project_2.srcs/sources_1/new/andgate.v,1728562789,verilog,,D:/fpga/project_2/project_2.srcs/sim_1/new/tb_and.v,,andgate,,,,,,,,
+D:/fpga/project_2/project_2.srcs/sources_1/new/clockdivider.v,1728583201,verilog,,D:/fpga/project_2/project_2.srcs/sim_1/new/clock_tb.v,,clockdivider,,,,,,,,
+D:/fpga/project_2/project_2.srcs/sources_1/new/dflipflop.v,1728588157,verilog,,D:/fpga/project_2/project_2.srcs/sim_1/new/dflipflop_tb.v,,dflipflop,,,,,,,,

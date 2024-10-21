@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/fpga/verliog_ders_notlari/verliog_ders_notlari.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sim_1/new/sim_four_t_flipflop.v,1729329842,verilog,,,,sim_four_t_flipflop,,,,,,,,
+D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sources_1/new/d_flipflop.v,1729333693,verilog,,D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sources_1/new/four_t_flipflop.v,,d_flipflop,,,,,,,,
+D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sources_1/new/four_t_flipflop.v,1729333033,verilog,,D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sources_1/new/t_flipflop.v,,four_t_flipflop,,,,,,,,
+D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sources_1/new/t_flipflop.v,1729333190,verilog,,D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sim_1/new/sim_four_t_flipflop.v,,t_flipflop,,,,,,,,

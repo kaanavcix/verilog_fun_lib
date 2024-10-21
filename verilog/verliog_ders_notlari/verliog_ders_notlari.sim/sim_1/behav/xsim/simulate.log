@@ -1,0 +1,7 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+q_out=0000
+q_out=000x
+q_out=0000
+q_out=000x
+$stop called at time : 225 ns : File "D:/fpga/verliog_ders_notlari/verliog_ders_notlari.srcs/sim_1/new/sim_four_t_flipflop.v" Line 20
