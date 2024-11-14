@@ -14,10 +14,10 @@ module sim_four_t_flipflop();
        //Concurnet Testbench ddiyoruz olay direkt çalışıyor
       initial begin
        reset = 1'b1;
-#15 reset = 1'b0;
-#180 reset = 1'b1;
-#10 reset = 1'b0;
-#20 $stop;
+      #15 reset = 1'b0;
+      #180 reset = 1'b1;
+      #10 reset = 1'b0;
+      #20 $stop;
       end
 
       initial begin
